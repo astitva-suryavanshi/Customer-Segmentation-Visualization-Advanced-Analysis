@@ -70,3 +70,6 @@ Project completed as part of the Saiket Systems internship program. Dataset attr
 ## Disclaimer
 
 This project is intended for educational and analytical purposes. Findings describe patterns in the available dataset and should not be interpreted as proof of causal relationships.
+
+
+python, pandas, data-analysis, customer-segmentation, customer-churn, exploratory-data-analysis, data-visualization, matplotlib, seaborn, jupyter-notebook, saiket-systems
